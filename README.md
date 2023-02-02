@@ -1,7 +1,7 @@
 
 
 ## Olá,Eu sou Gabriel Antônio Lopes Costa
-- 📚 Estudo Ánalise e desenvolvimento de Sitemas Pela PUC-MG
+- 📚 Estudo Análise e desenvolvimento de Sistemas Pela PUC-MG
 - 🌱 Estou aprendendo as seguintes Tecnologias no Momento: React-native,C# ,JavaScript/TypeScript e NodeJs...
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielll-sys&show_icons=true&theme=dracula)
