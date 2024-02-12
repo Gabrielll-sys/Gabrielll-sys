@@ -1,7 +1,7 @@
 
 
 ## Olá,Eu sou Gabriel Antônio Lopes Costa
-- 📚 Estudo Análise e desenvolvimento de Sistemas Pela PUC-MG
+- 📚 Formado emAnálise e desenvolvimento de Sistemas Pela PUC-MG
 - 🌱 Estou aprendendo as seguintes Tecnologias no momento: React/React-native,C# ,JavaScript/TypeScript e NodeJs...
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielll-sys&show_icons=true&theme=dracula)
@@ -22,4 +22,4 @@
 
 ##
 
- <a href = "mailto:gabrielpuneco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:gabrielalcosta39@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
